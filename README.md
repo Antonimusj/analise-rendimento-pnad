@@ -11,4 +11,28 @@ Este ranking compara o ganho de poder de compra efetivo entre as Grandes Regiõe
 
 ![Crescimento Acumulado](crescimento_real_acumulado.png)
 
+
 Análise: O Sul e o Nordeste destacam-se com os maiores crescimentos reais acumulados (15,42% e 14,42%, respectivamente). Este dado é crucial para o projeto, pois revela um processo de convergência econômica onde o Nordeste, apesar de possuir o menor rendimento absoluto, foi a segunda região que mais conseguiu expandir seu poder de compra proporcionalmente na última década.
+
+
+👤 Autor
+
+José Antônio da Silva Estudante de Ciência de Dados (3º Semestre) na Faculdade Descomplica.
+
+
+
+
+
+---
+
+
+
+---
+
+### 🤝 Conecte-se comigo
+Para discussões sobre Engenharia de Dados, parcerias em projetos de Sports Analytics ou oportunidades profissionais:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-antonio-da-silva-ds)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/antonimusarch)
+
+---
